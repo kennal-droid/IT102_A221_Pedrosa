@@ -1,0 +1,4 @@
+Timestamp: 2026-09-04 08:15:30
+Account: Juan Dela Cruz
+Transaction: Deposit
+Amount: ₱1000.00
